@@ -121,9 +121,10 @@ const Login = () => {
           </p>
         </div>
 
-        <div className="flex-1 bg-indigo-100 text-center hidden lg:flex">
-          <div className="m-12 xl:m-16 w-full bg-contain bg-center bg-no-repeat"></div>
-        </div>
+        <div className="flex-1  bg-indigo-100 text-center hidden lg:flex">
+          <img src="./desktop-img.png" className=" py-10 px-10 mx-auto" />
+          </div>
+        
       </div>
     </div>
   );
